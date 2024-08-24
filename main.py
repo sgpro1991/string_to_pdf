@@ -17,3 +17,6 @@ except UnicodeEncodeError:
     CreatePdf(arg_string)
 finally:
     print("Pdf created")
+    
+def main():
+    print("lalalal")
